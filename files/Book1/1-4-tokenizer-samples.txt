@@ -1,0 +1,89 @@
+Everything AI Visual Bible
+Book 1, Chapter 1.4: Large Language Models: Predicting the Next Word
+Sample text for the Try it now task
+
+Copy one line at a time into the tokenizer at
+https://platform.openai.com/tokenizer
+Compare the number of tokens with the number of words or characters.
+
+
+STEP 2: THE BAKERY SENTENCE (ENGLISH)
+-------------------------------------
+Funmi's bakery is famous for its cinnamon rolls.
+
+
+STEP 5: A LONG, RARE WORD
+-------------------------
+antidisestablishmentarianism
+
+
+STEP 6: A NUMBER
+----------------
+3,141,592,653
+
+
+STEP 7: THE SAME BAKERY SENTENCE IN OTHER LANGUAGES
+---------------------------------------------------
+Each line means "Funmi's bakery is famous for its cinnamon rolls."
+
+Spanish:
+La panadería de Funmi es famosa por sus rollos de canela.
+
+French:
+La boulangerie de Funmi est célèbre pour ses roulés à la cannelle.
+
+German:
+Funmis Bäckerei ist berühmt für ihre Zimtschnecken.
+
+Italian:
+La panetteria di Funmi è famosa per i suoi rotoli alla cannella.
+
+Portuguese:
+A padaria da Funmi é famosa pelos seus rolinhos de canela.
+
+Russian:
+Пекарня Фунми славится своими булочками с корицей.
+
+Greek:
+Ο φούρνος της Φούνμι είναι διάσημος για τα ρολά κανέλας του.
+
+Arabic:
+مخبز فونمي مشهور بلفائف القرفة.
+
+Hindi:
+फ़ुन्मी की बेकरी अपने दालचीनी रोल के लिए मशहूर है।
+
+Chinese (Simplified):
+芬米的面包店以肉桂卷闻名。
+
+Japanese:
+フンミのパン屋はシナモンロールで有名です。
+
+Korean:
+푼미의 빵집은 시나몬 롤로 유명합니다.
+
+
+EXTRA TESTS TO TRY
+------------------
+Common words are usually one token each. Try these to see other patterns.
+
+A misspelling (compare it with the correct spelling):
+Funmi's bakry is famus for its cinamon rolls.
+
+The same word with different capitals:
+bakery Bakery BAKERY
+
+A date written three ways:
+July 21, 2026
+21/07/2026
+2026-07-21
+
+A phone number and an email address (both fictional):
+555-0147
+orders@funmis-kitchen.example
+
+A sentence with emoji:
+Fresh cinnamon rolls today! 🥐🍩☕
+
+The word "strawberry" (see the Real-world example in Chapter 1.4):
+strawberry

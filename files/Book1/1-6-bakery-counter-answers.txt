@@ -1,0 +1,71 @@
+Everything AI Visual Bible
+Book 1, Chapter 1.6: How AI Sees, Draws, and Hears
+Answer key for 1-6-bakery-counter.png
+
+Use this list to check your assistant's answer. Mark each item in the
+assistant's answer as correct, wrong, or invented.
+
+
+WHAT THE PICTURE SHOWS
+----------------------
+A glass bakery display case with a dark wooden frame and three shelves,
+in front of a cream tiled wall. The baked goods are arranged in rows on
+each shelf. The picture is a computer-drawn illustration, not a photo.
+
+
+WHAT'S ON EACH SHELF
+--------------------
+Top shelf
+  Croissants ................................. 6 (left side)
+  Cinnamon rolls with white icing ............ 5 (right side)
+  A small price sign in front of the
+  last cinnamon roll on the right ............ 1
+
+Middle shelf
+  Blueberry muffins in white paper cases ..... 7 (left side)
+  Chocolate chip muffins in white paper cases  4 (right side)
+
+Bottom shelf
+  Chocolate chip cookies ..................... 9 (left side, in two
+                                               staggered rows: 4 at the
+                                               back and 5 at the front)
+  Plain bagels ............................... 3 (middle)
+  Sesame seed bagels ......................... 2 (right side)
+
+Total baked goods: 36
+
+
+THE PRICE SIGN
+--------------
+The small sign reads:
+  Cinnamon rolls
+  $3.75 each
+
+The sign is small, so an assistant may misread the price, guess a
+different price, or say it can't read the sign. Saying it can't read the
+sign is an honest answer. Giving a confident wrong price is a mistake.
+
+
+EASY MISTAKES TO WATCH FOR
+--------------------------
+- Counting the blueberry and chocolate chip muffins as one group of 11,
+  or mixing up which is which. They have the same white paper cases.
+- Miscounting the cookies, because the back row is partly hidden behind
+  the front row.
+- Calling all 5 bagels the same kind. Two have sesame seeds.
+- Calling the bagels donuts.
+- Miscounting the croissants or cinnamon rolls by one.
+
+
+WHAT ISN'T IN THE PICTURE
+-------------------------
+If the assistant lists any of these, it invented them:
+  - Donuts
+  - Loaves of bread
+  - Cakes or cake slices
+  - Pies or tarts
+  - Scones or biscuits
+  - Pretzels
+  - Drinks or coffee cups
+  - People
+  - Any price other than $3.75, or more than one price sign
