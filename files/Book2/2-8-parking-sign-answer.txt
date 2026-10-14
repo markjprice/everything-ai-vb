@@ -1,0 +1,47 @@
+Everything AI Visual Bible
+Book 2, Chapter 2.8: Voice, Camera, and Multimodal Conversations
+Answer for 2-8-parking-sign.png
+
+The question in the task:
+  Can I park here on Saturday at 3:00 p.m. for two hours without a permit?
+
+THE SHORT ANSWER
+----------------
+No. You can park at 3:00 p.m., but you must move the car by 4:00 p.m.
+That's one hour, not two.
+
+
+WHAT THE SIGN SAYS, PANEL BY PANEL
+----------------------------------
+Panel 1 (red):    NO PARKING  7 AM - 9 AM  MON - FRI
+Panel 2 (green):  2 HOUR PARKING  9 AM - 4 PM  EXCEPT SUNDAY
+Panel 3 (green):  AREA 4 PERMIT HOLDERS EXEMPT FROM TIME LIMIT
+Panel 4 (red):    TOW-AWAY ZONE  NO STOPPING  4 PM - 7 PM  EXCEPT SUNDAY
+
+
+HOW THE RULES WORK TOGETHER ON SATURDAY FROM 3:00 TO 5:00 P.M.
+----------------------------------------------------------------
+Panel 1  Doesn't apply. It covers Monday to Friday mornings only.
+Panel 2  Applies. "Except Sunday" means Monday to Saturday, so the 2-hour
+         limit is in force on Saturday from 9:00 a.m. to 4:00 p.m.
+         Arriving at 3:00 p.m. is allowed.
+Panel 3  Doesn't help. You have no permit, and the permit only removes
+         the time limit. It doesn't allow stopping in a tow-away period.
+Panel 4  This is the line that gives the answer. "Except Sunday" means it
+         applies on Saturday, so no stopping is allowed from 4:00 p.m. to
+         7:00 p.m. A car still there after 4:00 p.m. can be towed.
+
+
+MISTAKES TO WATCH FOR
+---------------------
+- Reading "Except Sunday" as "weekdays only" and saying panel 4 doesn't
+  apply on Saturday.
+- Saying "Yes, two hours is within the 2-hour limit" without checking
+  panel 4.
+- Applying panel 1 to Saturday.
+- Saying the Area 4 permit allows parking after 4:00 p.m. It doesn't.
+- Misreading the small print on panel 3.
+
+
+This sign is fictional. Parking rules vary by city, so always read the
+actual sign where you park.

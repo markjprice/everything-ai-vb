@@ -1,0 +1,107 @@
+Everything AI Visual Bible
+Book 2, Chapter 2.4: Asking for the Right Format
+Checklist for 2-4-wedding-catering-notes.txt
+
+Use this list in step 5 of the task to tick off every detail. Each item
+below appears in the notes. If an item is missing from the assistant's
+checklist, table, or reminder, or has changed, tell the assistant what it
+missed.
+
+
+THE EVENT
+---------
+[ ] Lewis/Whitaker wedding (bride Amara, groom Josh), Saturday,
+    June 12, 2027
+[ ] Venue: Hollow Creek Barn, 2210 Orchard Hill Road
+[ ] Kitchen entrance around the back, by the red silo
+[ ] Venue coordinator Pete, 555-0198, unlocks at 2:30 p.m.
+[ ] 120 guests so far. Final number from Carol Lewis by Monday, June 7
+    (her cell 555-0163)
+
+
+TIMES ON THE DAY
+----------------
+[ ] 1:45 p.m.  Tobi leaves the bakery with the van
+[ ] 2:30 p.m.  Pete unlocks the barn
+[ ] 3:00 p.m.  Set up finished
+[ ] 3:30 p.m.  Servers Keisha and Sam arrive (black shirts)
+[ ] 4:00 p.m.  Ceremony
+[ ] 6:00 p.m.  Buffet dinner served
+[ ] 7:30 p.m.  First dance. No clearing plates during the dance.
+[ ] 8:00 p.m.  Cupcake tower for dessert
+
+
+MENU
+----
+[ ] Chicken jollof rice
+[ ] Vegetable jollof rice (vegan, cooked in a separate pot)
+[ ] Grilled shrimp skewers with pepper sauce
+[ ] Roasted vegetable and quinoa salad
+[ ] Fried plantains
+[ ] Mini sourdough rolls with butter
+[ ] 240 cupcakes: lemon, vanilla, and red velvet (2 per guest)
+[ ] One 6-inch cutting cake, on the small round table by the window,
+    not on the buffet
+
+
+DIETARY NEEDS AND ALLERGIES
+---------------------------
+[ ] 14 vegetarian
+[ ] 6 vegan
+[ ] 4 gluten-free
+[ ] Uncle Ray is celiac: plate made separately and labeled, no shared
+    spoons
+[ ] Lily, age 7, the groom's niece: SEVERE peanut and tree nut allergy,
+    carries an EpiPen. No nuts anywhere.
+[ ] Lemon cupcakes switched from almond flour to regular flour
+[ ] No praline on the red velvet cupcakes
+[ ] Tell all staff about the nut allergy
+[ ] One guest (Josh's boss) is allergic to shellfish: shrimp skewers on
+    their own platter at the end of the buffet, with their own tongs and
+    a label
+
+
+SUPPLIER ORDER (the table should have exactly these 11 rows)
+------------------------------------------------------------
+Ingredient              Quantity     Date needed
+Chicken thighs          60 lb        Thursday, June 10
+Shrimp (fresh)          15 lb        Friday, June 11
+Long grain rice         30 lb        Wednesday, June 9
+Plantains               40           Thursday, June 10
+Quinoa                  8 lb         Wednesday, June 9
+Butter                  20 lb        Wednesday, June 9
+Cream cheese            12 lb        Wednesday, June 9
+Eggs                    15 dozen     Thursday, June 10
+Gluten-free flour       5 lb         Wednesday, June 9
+Mixed salad greens      10 lb        Friday, June 11
+Lemons                  3 dozen      Thursday, June 10
+
+Easy mistakes to watch for:
+- Ordering 50 lb of rice. The bakery already has 20 lb, so the order is
+  30 lb.
+- Adding flour, sugar, or spices. The notes say not to order them.
+- Adding chafing dishes. They're rented, not ordered from the supplier.
+
+
+OTHER REMINDERS
+---------------
+[ ] Rent 8 chafing dishes and fuel from Millbrook Party Rentals. Pick up
+    Friday, June 11 at 2:00 p.m. Return Monday, June 14 by noon, or
+    there's an extra day's charge.
+[ ] Bring 30 boxes for leftovers, which go home with the couple
+[ ] Price: US$49 per guest = US$5,880 for 120 guests
+[ ] Deposit of US$1,500 already paid
+[ ] Balance of US$4,380 due Friday, June 4. Invoice to Carol Lewis.
+
+
+A GOOD PHONE REMINDER
+---------------------
+It should be two lines of plain text, with no asterisks or pound signs,
+and should include at least the arrival time and the nut allergy. For
+example:
+
+Lewis wedding: leave 1:45, set up by 3:00 at Hollow Creek Barn, dinner 6:00.
+NO NUTS anywhere (Lily, EpiPen). Shrimp on own platter. Ray's GF plate separate.
+
+
+All names, places, and phone numbers are fictional.
