@@ -1,0 +1,343 @@
+Customer Projects weekly team meeting
+Tuesday, March 9, 2027, 10:00 a.m. to 10:25 a.m. (Eastern)
+Recorded and transcribed automatically. Everyone was told at the start.
+
+Attendees: Dana Novak (chair), Jordan Vang, Priya Raman, Mei Chen, Ben Carter, Aisha Bello
+Absent: Luis Ortega (Denver training course)
+
+-----------------------------------------------------------------------------
+
+[00:00:04] Dana Novak: Okay, I think everyone's here except Luis, who's at the course in Denver this week. Quick reminder that this call is being recorded and transcribed, same as always, so I can send the action items out afterward. Is everyone okay with that?
+
+[00:00:26] Aisha Bello: Yep.
+
+[00:00:28] Ben Carter: Fine by me.
+
+[00:00:30] Dana Novak: Great. Three things on the agenda today. The Greenfield request, the weekly status report, and the support platform. Then anything else at the end. Let's start with Greenfield, because that's the one with a deadline.
+
+[00:00:49] Dana Novak: So, as most of you know, Rachel at Greenfield asked two things two weeks ago. One, could we move the ordering app release forward from March 19 to March 5. And two, could we add a "Save for later" button on the product page. I said no to the earlier date, because we'd have had to skip testing on the payment step, and nobody wants that. But I said we'd look at the button.
+
+[00:01:27] Mei Chen: And March 5 has gone now anyway.
+
+[00:01:32] Dana Novak: Right, that question answered itself. So the real question for today is the button. Do we squeeze it into the March 19 release, or does it go into the April 2 release?
+
+[00:01:49] Priya Raman: Um, from the design side, it's not a big screen. It's one button and one list page. But the list has to remember items between visits, which means it touches the account system, and that's where things usually get, uh, interesting.
+
+[00:02:11] Ben Carter: Yeah, and if it touches accounts, I'd want it on the test devices for at least a week. We've been burned before with the login stuff on older Android phones.
+
+[00:02:27] Jordan Vang: Can I add one thing? Looking at the support numbers, about a third of the Greenfield tickets last month were about checkout. If we rush something new into the same release, and checkout breaks, we'll see it straight away in the ticket queue.
+
+[00:02:50] Dana Novak: That's a good point. So what I'm hearing is, the button is small, but the risk isn't.
+
+[00:03:00] Priya Raman: Pretty much.
+
+[00:03:02] Mei Chen: I'd also rather not change the release notes again. We've told their support team what's in March 19. If we add something now, I have to redo the notes and the help articles.
+
+[00:03:19] Dana Novak: Okay. Does anyone want to argue for March 19?
+
+[00:03:25] Aisha Bello: Only that Rachel will be disappointed. Their spring sale is this week.
+
+[00:03:32] Dana Novak: She will. But I'd rather she's disappointed for two weeks than annoyed by a broken checkout. So, decision: the "Save for later" button goes into the April 2 release, not March 19. March 19 stays exactly as planned.
+
+[00:03:52] Jordan Vang: Makes sense.
+
+[00:03:54] Ben Carter: Agreed.
+
+[00:03:56] Dana Novak: Good. So for that to work, we need a few things. Maria, could you put together an estimate for the button and the list page? Design and build time, roughly. I'd like it by end of day tomorrow, so I can share it with Helen on Thursday.
+
+[00:04:21] Priya Raman: Sure, I can do that by tomorrow afternoon.
+
+[00:04:26] Dana Novak: Thanks. And Ken, can you get the test devices set up for it? Including the older Android phones.
+
+[00:04:36] Ben Carter: Yeah. When do you need them ready?
+
+[00:04:40] Dana Novak: Monday, if that's possible?
+
+[00:04:43] Ben Carter: Monday's fine. I'll have them ready Monday morning.
+
+[00:04:48] Dana Novak: Perfect. Mei, the March 19 release notes. Are they on track?
+
+[00:04:55] Mei Chen: They're almost done. I'll send them to Greenfield by Friday.
+
+[00:05:01] Dana Novak: This Friday, the 12th?
+
+[00:05:04] Mei Chen: Yes, this Friday.
+
+[00:05:07] Dana Novak: Great. Okay, I think that's Greenfield. Anything else on it before we move on?
+
+[00:05:15] Aisha Bello: Just, will the button cost them extra? Because Rachel might ask.
+
+[00:05:21] Dana Novak: Hmm. Good question. I don't actually know whether their contract covers small additions or not. Helen would know, but she's not here today.
+
+[00:05:34] Jordan Vang: I think it depends on the change request clause, but I don't know what it says.
+
+[00:05:43] Dana Novak: Let's not guess. We'll find out. Moving on.
+
+[00:05:48] Dana Novak: Second item, the weekly status report. Right now it goes out on Friday afternoons. Helen asked whether we could move it to Thursday, because the leadership meeting moved to Friday mornings and she wants the report before it.
+
+[00:06:08] Priya Raman: Thursday afternoon or Thursday morning?
+
+[00:06:12] Dana Novak: Thursday afternoon. By 4:00 p.m.
+
+[00:06:15] Jordan Vang: That's fine for me, but the support numbers come in on Thursday mornings. So I'd need to update the dashboard figures earlier in the week, or at least by Thursday morning, for the report to have the right numbers.
+
+[00:06:36] Dana Novak: Could you do the dashboard update by Thursday morning? Like, by 10:00?
+
+[00:06:43] Jordan Vang: Yeah, I can do that. Thursday by 10:00.
+
+[00:06:48] Mei Chen: Does that start this week or next week?
+
+[00:06:53] Dana Novak: Let's start next week, so we're not rushing. So, decision two: from next week, the weekly status report goes out on Thursday afternoons by 4:00 p.m. instead of Fridays. This Friday will be the last Friday report.
+
+[00:07:13] Aisha Bello: So this week we still do Friday.
+
+[00:07:18] Dana Novak: This week we still do Friday. Starting next week, Thursday.
+
+[00:07:24] Jordan Vang: And I'll still update the dashboard this Thursday by 10:00, so we can test the timing.
+
+[00:07:33] Dana Novak: Even better. Thanks, Jordan.
+
+[00:07:36] Ben Carter: Can I ask something about the report?
+
+[00:07:40] Dana Novak: Go ahead.
+
+[00:07:42] Ben Carter: Do we still need the testing section in it? It's the same every week unless something fails.
+
+[00:07:52] Dana Novak: Hmm. I think Helen likes seeing it, even when it's boring. Let's keep it as it is for now.
+
+[00:08:03] Ben Carter: Okay.
+
+[00:08:04] Dana Novak: Third item. The support platform. Aisha, you've been living in it for two months now. How's it going?
+
+[00:08:14] Aisha Bello: Honestly, better than I expected. The ticket view is a lot faster. The reporting took some getting used to, but Jordan helped with that.
+
+[00:08:28] Jordan Vang: The reporting's fine now. The numbers match the old system, give or take.
+
+[00:08:35] Aisha Bello: The thing that's not great is the onboarding guide. It still has screenshots from the old platform, and two of the steps are just wrong now. When the new contractor started last week, she followed the guide and got stuck on the second page.
+
+[00:08:58] Dana Novak: Ah. That's not good.
+
+[00:09:01] Mei Chen: That guide was written, what, three years ago?
+
+[00:09:06] Aisha Bello: Something like that. It needs a proper update. New screenshots, new steps, and the section on escalations is out of date too.
+
+[00:09:19] Dana Novak: Okay, so someone needs to update the onboarding guide for the new platform. It's probably half a day of work. Who has time for that?
+
+[00:09:32] Priya Raman: I'm on the Greenfield estimate this week.
+
+[00:09:37] Ben Carter: Test devices.
+
+[00:09:39] Jordan Vang: I could maybe look at it after the dashboard, but I really don't know the escalation steps.
+
+[00:09:48] Aisha Bello: I'm out next week, remember. Vacation.
+
+[00:09:53] Dana Novak: Right, of course. Okay. We definitely need to do it, but let's not pick someone right now. Let's think about it and come back to it.
+
+[00:10:07] Mei Chen: Maybe Luis, when he's back?
+
+[00:10:10] Dana Novak: Maybe. He's not here to say yes, though. Let's leave it open.
+
+[00:10:17] Aisha Bello: As long as it doesn't get lost again.
+
+[00:10:22] Dana Novak: Fair. I'll put it in the notes as something we still need to sort out.
+
+[00:10:31] Dana Novak: Anything else on the platform?
+
+[00:10:35] Jordan Vang: One small thing. The new platform sends a satisfaction survey after every closed ticket. The response rate's about 18 percent, which is higher than before. We'll have a full month of data at the end of March.
+
+[00:10:54] Dana Novak: Nice. That'll be good for the offsite goals. Remember we said we'd reply to every customer issue within one working day. The survey will tell us if customers notice.
+
+[00:11:10] Aisha Bello: They'll notice. People complain a lot less when we reply the same day.
+
+[00:11:18] Dana Novak: Ha. Good. Okay, that's the agenda. Anything else from anyone?
+
+[00:11:24] Priya Raman: Just a heads-up, the design system update is coming out next month. Some of the button styles will change, including the one we'd use for "Save for later." I'll design it in the new style so we don't have to change it twice.
+
+[00:11:46] Dana Novak: Good thinking. Does that change your estimate?
+
+[00:11:51] Priya Raman: A little. I'll include it.
+
+[00:11:54] Ben Carter: From me, the older test phones are getting really slow. At some point we'll need to replace a couple of them, but not this month.
+
+[00:12:08] Dana Novak: Okay, noted. That's one for next quarter's budget.
+
+[00:12:13] Mei Chen: Oh, and the Riverside Hall photos from the offsite are in the shared folder, if anyone wants them.
+
+[00:12:23] Aisha Bello: The one of Jordan at the whiteboard is my favorite.
+
+[00:12:29] Jordan Vang: Please don't put that in the report.
+
+[00:12:34] [laughter]
+
+[00:12:34] Dana Novak: No promises. Okay, let me read back what I've got, so the transcript has it clearly, and tell me if I've missed anything.
+
+[00:12:47] Dana Novak: Decision one: the "Save for later" button goes into the April 2 release. March 19 stays as planned.
+
+[00:12:57] Dana Novak: Decision two: from next week, the status report goes out on Thursdays by 4:00 p.m. This Friday is the last Friday report.
+
+[00:13:09] Dana Novak: Actions. Maria, the estimate for the button and list page, by end of day tomorrow. Ken, test devices ready, including the older Android phones, by Monday morning. Mei, release notes to Greenfield by this Friday. Jordan, dashboard figures updated by Thursday at 10:00 a.m., starting this week.
+
+[00:13:34] Priya Raman: Yep.
+
+[00:13:36] Ben Carter: Got it.
+
+[00:13:38] Mei Chen: Yes.
+
+[00:13:39] Jordan Vang: Yep.
+
+[00:13:41] Dana Novak: And the onboarding guide still needs an owner. We'll sort that out. And the question about whether the contract covers the button, we still need an answer on that.
+
+[00:13:56] Dana Novak: Okay. We've got some time left, so I want to use it for something else. Jordan, would you walk us through the support numbers for February? I know you've got the chart ready.
+
+[00:14:14] Jordan Vang: Sure. Let me share my screen. Can everyone see that?
+
+[00:14:20] Mei Chen: Yes.
+
+[00:14:21] Jordan Vang: Okay. So this is customer issues by week for February. We resolved 104 issues in total, which is up from 88 in January. The big jump is in the third week, which is when the new platform's auto-routing went live. Tickets go straight to the right person now, instead of all landing with Aisha first.
+
+[00:14:50] Aisha Bello: Which I'm very happy about.
+
+[00:14:54] Jordan Vang: The average time to first reply went from about two days in January to about a day and a half in February. So we're moving toward the one-day goal, but we're not there yet.
+
+[00:15:12] Dana Novak: What's slowing us down most?
+
+[00:15:15] Jordan Vang: Weekend tickets, mostly. Anything that comes in on Friday evening or Saturday doesn't get a reply until Monday, and that pulls the average up. If you take weekends out, we're at about one day already.
+
+[00:15:34] Priya Raman: Do we want weekend cover? Because that's a much bigger conversation.
+
+[00:15:41] Dana Novak: It is. Not for today. Let's see what the numbers look like in March first. But it's useful to know where the gap is.
+
+[00:15:54] Jordan Vang: The other thing is, Greenfield is about 40 percent of all tickets now. Most of them are about checkout and delivery dates.
+
+[00:16:06] Ben Carter: The delivery date ones are their system, not ours, though.
+
+[00:16:12] Jordan Vang: Mostly, yes. About half of them get passed back to Greenfield's warehouse team.
+
+[00:16:20] Dana Novak: That's useful for my call with Rachel. Can you send me that breakdown?
+
+[00:16:27] Jordan Vang: It's already in the shared folder, in the February tab.
+
+[00:16:33] Dana Novak: Perfect, I'll grab it from there.
+
+[00:16:37] Mei Chen: Can I ask about the chart colors? For the report, the gray and the light blue are really hard to tell apart when it's printed.
+
+[00:16:51] Jordan Vang: Fair point. The company template colors would be easier, the dark blue and the amber.
+
+[00:17:00] Mei Chen: Thank you.
+
+[00:17:02] Dana Novak: Okay, anything else on the numbers?
+
+[00:17:06] Aisha Bello: Just, um, one thing on weekends. Even without cover, we could set an auto-reply on Fridays that says when people will hear back. It doesn't fix the time, but people get less [inaudible] when they know.
+
+[00:17:25] Dana Novak: I like that. Let's talk about it when you're back from vacation. Not a decision today.
+
+[00:17:34] Aisha Bello: Sounds good.
+
+[00:17:36] Dana Novak: Okay. I want to spend the last part on the offsite goals, just a quick check-in, because it's been a month. We agreed three goals. Reply within one working day, the reporting dashboard by June 30, and everyone does one training course. Let's go round. Training courses first. Who's chosen one?
+
+[00:18:03] Priya Raman: I signed up for the accessibility design course. It starts in April.
+
+[00:18:10] Ben Carter: I'm looking at the test automation one, but I haven't signed up yet.
+
+[00:18:18] Mei Chen: I'm doing the technical writing course. Luis is at his one right now, obviously.
+
+[00:18:26] Jordan Vang: I haven't picked one yet. There are too many data courses, honestly.
+
+[00:18:33] Aisha Bello: Same, I haven't picked yet.
+
+[00:18:36] Dana Novak: That's fine, there's no deadline in March. Just keep it on your list. And I'm doing the one on managing remote teams, which I started last week.
+
+[00:18:51] Dana Novak: And the dashboard. Jordan, Priya, where are we with that?
+
+[00:18:57] Jordan Vang: We've got the list of charts customers asked for. Twelve of them. We're trying to get it down to six for the first version.
+
+[00:19:10] Priya Raman: I've done rough sketches of four.
+
+[00:19:14] Dana Novak: Great. Any risks to June 30?
+
+[00:19:18] Jordan Vang: Only if Greenfield keeps adding requests and pulls us onto their work.
+
+[00:19:25] Dana Novak: That's fair, and that's partly why I want to say no to squeezing things into releases. Okay.
+
+[00:19:35] Dana Novak: The one-day reply goal we've covered with Jordan's numbers. Good progress, weekends are the gap.
+
+[00:19:44] Dana Novak: Last thing from me, and this is just information. I'll be at the Greenfield office on Thursday, March 11, for most of the day. Their planning workshop. So if you need me Thursday, message me rather than call, and I'll reply at lunch or after 4:00.
+
+[00:20:08] Mei Chen: That's the same day as the quarterly product review, right?
+
+[00:20:14] Dana Novak: It is. Luis asked if I could present our update there, but I can't, because I'm at Greenfield. I've told him I'll send him my notes and he's going to ask Helen whether someone else can cover. That's between him and Helen, so not one of our actions today.
+
+[00:20:40] Mei Chen: Okay, just checking.
+
+[00:20:42] Dana Novak: Thanks. Okay, that's everything from me. Anything else before we finish?
+
+[00:20:49] Ben Carter: Nope.
+
+[00:20:50] Priya Raman: I'm good.
+
+[00:20:52] Jordan Vang: All good.
+
+[00:20:54] Aisha Bello: Just, enjoy the offsite photos, everyone.
+
+[00:20:58] [laughter]
+
+[00:20:59] Dana Novak: Okay. While we're all here, I'd like a few minutes of thinking time on the Greenfield call with Rachel. It's a tricky conversation. I'd like to practice what I'll say. Is that okay? Priya, Mei, you've worked with Rachel the most.
+
+[00:21:20] Mei Chen: Sure.
+
+[00:21:22] Priya Raman: Happy to.
+
+[00:21:24] Dana Novak: So. What I want to say is: the button's coming, but on April 2, not this week, and here's why. What do you think she'll push back on?
+
+[00:21:39] Mei Chen: She'll say the spring sale is now. She'll ask why it takes two weeks for one button.
+
+[00:21:49] Priya Raman: And she might ask if we can turn it on partway through the sale. Like, a smaller release in between.
+
+[00:22:00] Ben Carter: Which we really don't want to do. An extra release means extra testing on the payment step again.
+
+[00:22:10] Dana Novak: Right. So I'll say: we tested the checkout for the sale, and we don't want to change it during the sale, because that's when a problem would hurt them most.
+
+[00:22:26] Mei Chen: That's good. That's about them, not about us.
+
+[00:22:31] Jordan Vang: You could mention that a third of their tickets last month were about checkout. It shows why we're careful.
+
+[00:22:42] Dana Novak: Good idea. The real number's in your February tab.
+
+[00:22:47] Priya Raman: And maybe offer to show her the design early? So she sees progress.
+
+[00:22:55] Dana Novak: I like that. Once your estimate's done and the design is in the new style, I could show her a sketch. Okay, I feel better about that call. Thank you.
+
+[00:23:11] Aisha Bello: Good luck.
+
+[00:23:13] Dana Novak: Thanks. Okay, we're nearly out of time. Is there anything anyone's been meaning to raise and hasn't?
+
+[00:23:32] Jordan Vang: Not from me.
+
+[00:23:34] Ben Carter: Nope, nothing else.
+
+[00:23:37] Mei Chen: Nothing from me.
+
+[00:23:39] Priya Raman: No.
+
+[00:23:41] Dana Novak: Okay. Then let's finish there. I'll send the notes and actions within the hour. Please reply by tomorrow if anything's wrong or missing. Thanks, everyone.
+
+[00:23:56] Aisha Bello: Thanks, Dana.
+
+[00:23:58] Ben Carter: Thanks.
+
+[00:24:00] Jordan Vang: Bye.
+
+[00:24:01] [Several people speaking at once]
+
+[00:24:04] Dana Novak: Oh, Ken, sorry, one more thing before you go. When you set up the test devices, can you include the tablet as well? Rachel mentioned some of their staff use the app on tablets in the store.
+
+[00:24:23] Ben Carter: Sure, I'll add the tablet. Still Monday.
+
+[00:24:28] Dana Novak: Thanks. Okay, bye, everyone.
+
+[00:24:43] [Recording stopped]
+
+-----------------------------------------------------------------------------
+Transcript generated automatically. Names and words may contain errors.
+All people, companies, and details are fictional, created for
+Everything AI Visual Bible, Book 4, Chapter 4.3.

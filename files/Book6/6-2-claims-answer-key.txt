@@ -1,0 +1,65 @@
+Everything AI Visual Bible
+Book 6, Chapter 6.2: Checking AI's Answers
+Answer key for 6-2-claims-to-check.txt
+
+Facts below were checked in October 2026. Check claim 3 again for the
+current year, because the limit changes.
+
+-----------------------------------------------------------------------------
+
+CLAIM 1: Wright brothers, December 17, 1903, near Kitty Hawk
+Verdict: CORRECT. Use.
+The flights took place at Kill Devil Hills, about four miles south of the
+town of Kitty Hawk, North Carolina. "Near Kitty Hawk" is accurate.
+Good sources: the Smithsonian National Air and Space Museum, which displays
+the 1903 Wright Flyer, and the National Park Service page for the Wright
+Brothers National Memorial.
+
+CLAIM 2: Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level
+Verdict: CORRECT. Use.
+This holds at standard sea-level air pressure. At higher altitudes, water
+boils at a lower temperature, so the "at sea level" part is important.
+Good sources: a national weather service or a university chemistry or
+physics department.
+
+CLAIM 3: IRA limit of $6,000 a year, or $7,000 if you're 50 or older
+Verdict: OUT OF DATE. Don't use as written.
+$6,000 (plus a $1,000 catch-up contribution at 50 or older) was the limit
+from 2019 to 2022. The limit has risen since: $7,000 in 2024 and 2025, and
+$7,500 for 2026, with a $1,100 catch-up for people 50 and older.
+Lesson: money figures, tax rules, and limits change, often every year. An
+assistant can give a figure that was right when its training data was
+collected. Check the current year on the primary source.
+Good source: the IRS website, irs.gov (search "IRA contribution limits").
+
+CLAIM 4: Mount Everest is 8,489 meters (27,851 feet) tall
+Verdict: CHANGED NUMBER. Use with changes.
+The height agreed by China and Nepal in 2020 is 8,848.86 meters (29,031.7
+feet). The claim swapped two digits (8,489 instead of 8,849), and the feet
+figure matches the wrong number, so the two units agree with each other
+but both are wrong.
+Lesson: a number that looks precise and is consistent across units can
+still be wrong. "Does it make sense?" helps: many people know Everest is
+"about 29,000 feet."
+Good sources: National Geographic or an encyclopedia such as Britannica,
+which report the 2020 survey.
+
+CLAIM 5: Kennedy's inaugural address, "Let us never tire of building bridges..."
+Verdict: INVENTED QUOTATION. Don't use.
+This sentence doesn't appear in Kennedy's inaugural address of
+January 20, 1961. The full text is published by the John F. Kennedy
+Presidential Library and Museum (jfklibrary.org). Searching for the exact
+words in quotation marks finds no original source. The address is famous
+for a different line: "ask not what your country can do for you, ask what
+you can do for your country."
+Lesson: a quotation needs its original source. An invented quote often
+sounds like the person, and is attached to a real, famous event.
+
+-----------------------------------------------------------------------------
+
+SCORE
+  5 out of 5  You checked every claim against a source independent of the AI.
+  3 or 4      Look again at claims 3 and 4. Out-of-date and changed numbers
+              are the easiest errors to miss.
+  0 to 2      Read Chapter 6.2 again, then try the three-question fact-check
+              on one claim at a time.

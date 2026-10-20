@@ -1,0 +1,37 @@
+Everything AI Visual Bible
+Book 4, Chapter 4.9: AI for Small Business and Freelancers
+Checking the FAQ for 4-9-customer-questions.txt
+
+The fifteen questions group into about five topics. Answers must come only
+from 4-9-funmis-kitchen-business-info.docx.
+
+TOPIC                 QUESTIONS     WHAT THE POLICIES SAY
+Opening hours         1, 4          Sunday 8:00 a.m. to 1:00 p.m. Closed Monday.
+                                    Close early if sold out.
+Gluten-free and       2, 7, 9       Gluten-free seeded loaf, US$8, Thursdays and
+allergies                           Saturdays, baked in a separate batch. The
+                                    kitchen uses wheat, nuts, eggs, dairy, and
+                                    sesame, so no item can be promised free of
+                                    traces. No nut-free promise for cakes.
+Cake orders           3, 6, 10, 12  At least 3 days' notice, so tomorrow is too
+                                    soon. 10-inch cake US$60. No cake delivery:
+                                    collect from the bakery.
+Catering              8, 15         Minimum 10 guests, so a team of 8 is below
+                                    the minimum. Delivery within 10 miles of the
+                                    bakery. (Whether Westerville is within 10
+                                    miles isn't in the policies.)
+Seasonal products     13            Pumpkin bread is back from mid-October to the
+                                    end of November, Wednesday to Sunday, US$8.50.
+
+QUESTIONS THE POLICIES CAN'T ANSWER (gaps to fill)
+- 5: Refunds for stale bread. There's no refund policy for bread or pastries.
+  An answer that gives a refund period invented it.
+- 11: Gift cards. Not mentioned.
+- 14: Parking. Not in the business information. (The Chapter 3.9 website
+  details mention street parking on Elm Row, but that file isn't part of
+  this task.)
+- 15, in part: whether a particular town is within 10 miles.
+- 7, in part: whether the loaf is safe for celiac disease. The policy says
+  traces can't be ruled out. A good answer doesn't say it's safe.
+
+Funmi's Kitchen and all questions are fictional.

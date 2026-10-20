@@ -1,0 +1,40 @@
+Everything AI Visual Bible
+Book 3, Chapter 3.4: Better Images: Style, Composition, and Iteration
+Character sheet for Loafy, the mascot of Funmi's Kitchen
+
+Copy everything between the two lines into your prompt, exactly as it is,
+every time you create a picture of Loafy. Then add the scene: what Loafy is
+doing, the background, and the shape of the picture.
+
+----------------------------------------------------------------------------
+Loafy: a golden-brown loaf of bread with a rounded top, a dusting of flour
+like freckles, small black dot eyes, rosy cheeks, a wide smile, and thin
+brown arms and legs. Flat illustration, bold dark outlines.
+
+Body: one rounded loaf, about one and a half times as wide as it is tall,
+with a slightly darker golden-brown crust on top and three diagonal
+slashes across the top of the crust. No face on the slashes.
+Face: on the front of the loaf, below the slashes. Two small black dot eyes,
+two round rosy-pink cheeks, and a wide, closed-mouth smile.
+Freckles: a light dusting of white flour across the top and cheeks.
+Arms and legs: thin brown lines with simple round hands (four fingers) and
+small round brown shoes. No clothes, hat, or apron.
+Colors: golden brown #C98A3D, dark crust #8A5523, cheeks #F08A8A,
+outlines #3B2A1A, flour white #FFF8EC.
+Style: flat illustration, bold dark outlines of even thickness, no
+shading or gradients, no texture, plain background unless a scene is given.
+----------------------------------------------------------------------------
+
+Example scenes from Chapter 3.4
+  1. Standing and waving, on a plain cream background. Square shape.
+  2. Holding a sign that reads "Closed for the holidays". Square shape.
+  3. Carrying a tray of cookies. Square shape.
+
+Tips
+- Keep the words in the box the same every time. Change only the scene.
+- After you have a picture you like, attach it as a reference image with
+  each new request: "Show this exact character..."
+- Compare each new picture with your first reference, not with the picture
+  before it.
+
+Loafy and Funmi's Kitchen are fictional.

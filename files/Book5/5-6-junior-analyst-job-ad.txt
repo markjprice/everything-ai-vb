@@ -1,0 +1,60 @@
+JUNIOR DATA ANALYST
+Brightwater Insurance Group  |  Columbus, Ohio (hybrid: 3 days in the office)
+Full time  |  US$54,000 to US$60,000 a year, depending on experience
+Closing date: Friday, February 26, 2027
+
+ABOUT US
+Brightwater Insurance Group provides home and car insurance to about 200,000
+customers in Ohio, Indiana, and Kentucky. Our Customer Insights team turns
+data about claims, calls, and surveys into answers that help us serve
+customers better.
+
+ABOUT THE ROLE
+You'll join a team of five analysts. You'll prepare weekly reports, clean and
+check data, build simple dashboards, and help answer questions from our
+claims and customer service teams. You'll learn from experienced analysts,
+and we'll support you to gain a professional certification in your first
+year.
+
+WHAT YOU'LL DO
+- Prepare weekly and monthly reports on claims, calls, and customer
+  satisfaction.
+- Clean and combine data from different systems, and check it for errors.
+- Build and update dashboards in Power BI.
+- Write short summaries of what the numbers show, for people who aren't
+  analysts.
+- Answer data questions from other teams, and explain your method.
+- Help improve how the team uses AI tools for routine reporting, with
+  careful checks on every figure.
+
+WHAT YOU'LL NEED
+- A degree in a subject that involved working with numbers, such as math,
+  economics, statistics, business, psychology, or a science, or equivalent
+  experience.
+- Confidence with Excel or Google Sheets, including formulas, pivot tables,
+  and charts.
+- Some experience with SQL or Python, from a course, project, or job.
+- Clear writing, and the ability to explain numbers in plain English.
+- Attention to detail. You check your own work before anyone else sees it.
+
+NICE TO HAVE
+- Experience with Power BI or Tableau.
+- Experience of customer service or a customer-facing job.
+- An example of a project where you used data to answer a real question.
+
+WHAT WE OFFER
+- 22 days of vacation, plus public holidays.
+- Medical, dental, and vision insurance.
+- 401(k) with a 5% company match.
+- US$1,500 a year for training and certifications.
+- A mentor for your first year.
+
+HOW TO APPLY
+Send your CV or résumé and a short cover letter (no more than one page) to
+careers@brightwater.example, with "Junior Data Analyst" in the subject line.
+Tell us about one time you used data to answer a question or solve a problem.
+
+Brightwater Insurance Group is an equal opportunity employer.
+
+This job advertisement is fictional, created for Everything AI Visual Bible,
+Book 5, Chapter 5.6.

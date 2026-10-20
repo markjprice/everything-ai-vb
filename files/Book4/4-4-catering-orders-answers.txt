@@ -1,0 +1,84 @@
+Everything AI Visual Bible
+Book 4, Chapter 4.4: Spreadsheets and Data
+Answers for 4-4-catering-orders.xlsx
+
+THE DATA
+--------
+Rows of data (not counting the header): 266
+Date range: January 8, 2025 to December 29, 2026
+Dates are US style (month/day). They're written four ways: as real
+Excel dates, as text like 3/4/26, as text like March 4, 2026 or
+Mar 4 2026, and as text like 2026-03-04.
+
+Prices per person: 2025 Breakfast US$11, Lunch US$17, Afternoon Tea US$14.
+                   2026 Breakfast US$12, Lunch US$18, Afternoon Tea US$15.
+
+PROBLEMS TO FIX
+---------------
+Duplicate orders (3): order numbers 1090, 1106, 1154 each appear twice.
+Cancelled orders (7), marked in the Notes column with different wording:
+  Order 1025  April 11, 2025  Greenfield Outdoor Supply  (cancelled, deposit refunded)
+  Order 1061  July 14, 2025  Linden Credit Union  (cancelled, deposit refunded)
+  Order 1075  September 5, 2025  Brennan family  (Cancelled by customer)
+  Order 1162  May 15, 2026  Adams family  (Cancelled by customer)
+  Order 1179  June 13, 2026  Larkin Street Merchants Association  (cancelled, deposit refunded)
+  Order 1250  December 7, 2026  Kowalski family  (Cancelled (weather))
+  Order 1263  December 29, 2026  Larkin St Merchants  (Cancelled (weather))
+Missing totals (2): orders 1066, 1211. Guests and price are there, so the
+  total can be worked out as guests x price per person.
+Customer names spelled several ways, for example:
+  Maple Street Church: Maple St. Church | Maple Street Church
+  Kestrel Ridge Software: Kestrel Ridge | Kestrel Ridge Software | KestrelRidge Software
+  Greenfield Outdoor Supply: Greenfield Outdoor | Greenfield Outdoor Supply | greenfield outdoor supply
+  Linden Credit Union: Linden CU | Linden Credit Union
+  Patel family: Patel Family | Patel family
+The Contact phone column isn't needed for the questions. Delete it before
+uploading, as Chapter 4.4 suggests.
+
+ROW COUNTS
+----------
+Original rows:                         266
+Minus 3 duplicate rows:                263
+Minus 7 cancelled orders:              256
+Rows in a correctly cleaned copy:      256
+
+QUESTION 1: TOTAL CATERING SALES FOR EACH MONTH OF 2026
+-------------------------------------------------------
+Excluding duplicates and cancelled orders, and filling the missing totals:
+  January    US$   3,852
+  February   US$   3,879
+  March      US$   3,999
+  April      US$   4,452
+  May        US$   7,236
+  June       US$   7,116
+  July       US$   5,754
+  August     US$   5,220
+  September  US$   5,523
+  October    US$   7,722
+  November   US$   7,737
+  December   US$   8,433
+  Total      US$  70,923
+If the duplicates and cancelled orders are left in (and blank totals
+treated as zero), 2026 adds up to US$73,200 instead. That gap is the
+kind of difference the five sanity checks should catch.
+
+QUESTION 2: WHICH MENU HAD THE HIGHEST AVERAGE ORDER VALUE?
+-----------------------------------------------------------
+Both years together (cleaned data):
+  Lunch          US$584.34  (107 orders)
+  Afternoon Tea  US$476.60  (81 orders)
+  Breakfast      US$405.63  (68 orders)
+2026 only:
+  Lunch          US$611.39  (59 orders)
+  Afternoon Tea  US$453.51  (47 orders)
+  Breakfast      US$410.18  (33 orders)
+If the assistant answers for one year when you meant both, or the other way
+round, that's the Definitions check in Figure 4.4A.
+
+A MONTH TO CHECK BY HAND
+------------------------
+March 2026: filter the Order date column for March 2026 (in all four formats),
+remove duplicates and cancelled orders, and add the totals. You should get
+US$3,999.
+
+All customers and orders are fictional.

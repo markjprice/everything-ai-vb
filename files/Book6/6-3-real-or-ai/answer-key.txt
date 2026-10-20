@@ -1,0 +1,20 @@
+Everything AI Visual Bible
+Book 6, Chapter 6.3: Deepfakes, Scams, and Synthetic Media
+Answer key for the 6-3-real-or-ai folder
+
+Picture   Real or AI   Clue a careful viewer might notice    Source
+01.jpg    [Real/AI]    [clue, or "no visible clue"]          [photographer or tool]
+02.jpg
+03.jpg
+04.jpg
+05.jpg
+06.jpg
+07.jpg
+08.jpg
+09.jpg
+10.jpg
+
+Five pictures are real photos and five were made with AI.
+
+Visual clues are getting harder to see, which is why Chapter 6.3 relies
+more on context and calling back than on spotting flaws.

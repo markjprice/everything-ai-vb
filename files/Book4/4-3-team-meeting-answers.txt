@@ -1,0 +1,71 @@
+Everything AI Visual Bible
+Book 4, Chapter 4.3: Meetings: Notes, Transcripts, and Action Items
+Answers for 4-3-team-meeting-transcript.txt
+
+Meeting: Customer Projects weekly team meeting, Tuesday, March 9, 2027
+
+
+DECISIONS (2)
+-------------
+1. The "Save for later" button goes into the April 2 release, not the
+   March 19 release. March 19 stays exactly as planned.          [00:03:32]
+2. From next week, the weekly status report goes out on Thursdays by
+   4:00 p.m. instead of Fridays. This Friday, March 12, is the last
+   Friday report.                                               [00:06:53]
+
+
+ACTION ITEMS (5)
+----------------
+Task                                    Owner          Deadline
+Estimate for the button and list page   Priya Raman    End of day Wednesday,
+(design and build time)                                March 10 ("by end of
+                                                       day tomorrow")
+                                                        [00:03:56]
+Test devices ready, including the       Ben Carter     Monday, March 15,
+older Android phones and the tablet                    morning
+                                                        [00:04:26], [00:24:04]
+March 19 release notes sent to          Mei Chen       Friday, March 12
+Greenfield                                              [00:04:55]
+Dashboard figures updated, starting     Jordan Vang    Thursdays by 10:00 a.m.,
+this week                                              first one Thursday,
+                                                       March 11 [00:06:36]
+Update the onboarding guide for the     Not assigned   Not stated
+new support platform                                    [00:09:19], [00:10:10]
+
+
+THE TWO CONFUSED NAMES
+----------------------
+The transcription tool wrote "Maria" for Priya and "Ken" for Ben. Nobody
+called Maria or Ken was at the meeting. The speaker labels show who
+answered:
+- "Maria, could you put together an estimate..." is answered by
+  Priya Raman.
+- "Ken, can you get the test devices set up..." is answered by
+  Ben Carter.
+An action list that says "Maria" or "Ken" needs correcting.
+
+
+OPEN QUESTIONS
+--------------
+- Does Greenfield's contract cover small additions such as the button, or
+  will it cost them extra? Nobody said they'd find out. Helen Park would
+  know, but she wasn't at the meeting.                          [00:05:21]
+- Who will update the onboarding guide? (Still needs an owner.)
+
+
+EASY MISTAKES TO WATCH FOR
+--------------------------
+- Giving the onboarding guide to Jordan, Luis, or Aisha. Nobody agreed to
+  it, so it should say "Not assigned."
+- Adding a deadline for the onboarding guide. None was said.
+- Treating these as action items. They aren't:
+  - Weekend cover for support tickets ("Not for today").
+  - A Friday auto-reply for tickets ("Not a decision today").
+  - Replacing the old test phones ("one for next quarter's budget").
+  - Luis's presentation at the product review (between Luis and Helen).
+  - Dana sending the notes. That's the follow-up you write in the task.
+- Saying the status report moves to Thursday this week. It starts next
+  week.
+
+
+All people and companies are fictional.

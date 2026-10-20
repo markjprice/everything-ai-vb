@@ -1,0 +1,63 @@
+Everything AI Visual Bible
+Book 4, Chapter 4.5: Chat with Your Documents and Notes
+Answers for the 4-5-company-policies folder
+
+The folder holds five fictional documents for Dana's company, Kestrel
+Ridge Software:
+  Staff-Handbook.pdf      Version 4.2, effective January 4, 2027
+  Remote-Work-Guide.pdf   Version 2.0, effective February 1, 2027
+  Travel-Policy.pdf       Version 3.1, effective July 1, 2026
+  Expenses-Policy.pdf     Version 5.0, effective January 4, 2027
+  Benefits-Summary.pdf    Plan year 2027
+
+
+THE FOUR QUESTIONS
+------------------
+1. How many days a week can staff work from home, and who approves it?
+   Up to 2 days a week, approved by your line manager.
+   Source: Remote-Work Guide, section 2. New employees work in the office
+   every day for their first 3 months (also section 2). Exceptions longer
+   than four weeks also need the People Team.
+   Watch for: "3 days." That was the old rule in version 1.3, mentioned in
+   section 7 of the guide as what changed.
+
+2. Can I claim a taxi home after a client dinner that ends at 10:00 p.m.?
+   Yes. A client dinner counts as a work event, and a taxi or rideshare
+   home can be claimed when a work event ends after 9:00 p.m., up to
+   US$60 one way, with the receipt and the name of the event.
+   Source: Expenses Policy, section 4. The dinner itself needs your line
+   manager's approval beforehand (section 5).
+
+3. When does dental coverage start for a new employee?
+   On the first day of the month after you complete 60 days of
+   employment. Source: Benefits Summary, section 1 (the table and the
+   worked example). Medical coverage starts on day one, which is an easy
+   mix-up.
+
+4. What's the company's policy on bringing pets to the office?
+   None of the documents mention pets. A good answer says the documents
+   don't cover it. Any rule about pets came from somewhere else.
+
+
+CONFLICTS BETWEEN DOCUMENTS (for What to ask next)
+--------------------------------------------------
+- Mileage rate: Travel Policy section 4 says US$0.62 per mile. Expenses
+  Policy section 6 says US$0.58 per mile.
+- Receipts: Travel Policy section 6 says keep receipts for costs of US$75
+  or more. Expenses Policy section 3 says attach a receipt for costs of
+  US$25 or more.
+The Travel Policy is older (July 2026) than the Expenses Policy (January
+2027). The Staff Handbook says the more specific document applies, but it
+doesn't say which wins between two specific documents.
+
+
+QUESTIONS THE DOCUMENTS DON'T ANSWER (examples)
+-----------------------------------------------
+- Pets in the office.
+- Parking at the office. There are bicycle racks, and parking fines
+  can't be claimed, but nothing says where staff can park a car.
+- Whether you can bring a guest to the office for lunch.
+- What happens to unused sick days.
+
+
+All documents and details are fictional.

@@ -1,0 +1,42 @@
+Everything AI Visual Bible
+Book 6, Chapter 6.2: Checking AI's Answers
+Five claims to check
+
+These five claims come from a fictional AI answer to the question "Give me
+five interesting facts about history, science, and money that I could use
+in a short talk." Check each one with the three-question fact-check before
+you decide whether you'd use it. The answer key is in a separate file,
+6-2-claims-answer-key.txt. Try not to look at it until you've finished.
+
+-----------------------------------------------------------------------------
+
+CLAIM 1 (history)
+The Wright brothers made the first powered, controlled airplane flights on
+December 17, 1903, near Kitty Hawk, North Carolina.
+
+CLAIM 2 (science)
+At sea level, pure water boils at 100 degrees Celsius, which is 212 degrees
+Fahrenheit.
+
+CLAIM 3 (money)
+In the United States, you can put up to $6,000 a year into an individual
+retirement account (IRA), or $7,000 if you're 50 or older.
+
+CLAIM 4 (science)
+Mount Everest, the highest mountain above sea level, is 8,489 meters
+(27,851 feet) tall.
+
+CLAIM 5 (history)
+In his inaugural address in January 1961, President John F. Kennedy said:
+"Let us never tire of building bridges, for every bridge we build brings us
+closer to the stars."
+
+-----------------------------------------------------------------------------
+
+For each claim, note:
+  How costly would it be if it were wrong?  Low / High
+  How likely is it to be wrong?             Lower / Higher
+  Where does it come from?
+  Independent source that agrees (or disagrees):
+  Does it make sense, and is it current?
+  Verdict:  Use  /  Don't use  /  Use with changes
