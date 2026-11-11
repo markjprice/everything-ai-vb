@@ -1,12 +1,8 @@
-# Bonus Books for *Microsoft Copilot Visual Bible*
+# Bonus Books for *Everything AI Visual Bible*
 
-## [Make Copilot Part of Your Work](integrate/README.md)
+## [Book 6, Using AI Wisely: Safety, Ethics, and the Road Ahead](book6/README.md)
 
-[![Make Copilot Part of Your Work](integrate/Book%205%20hero.png)](integrate/README.md)
-
-## [Profession-Specific Prompts](professions/README.md)
-
-[![Profession-Specific Prompts](professions/Hero.png)](professions/README.md)
+[![Book 6, Using AI Wisely: Safety, Ethics, and the Road Ahead](book6/Book6hero.png)](book6/README.md)
 
 ## [Beyond Your First AI](beyond/README.md)
 
@@ -15,3 +11,7 @@
 ## [Local AI Models](local-models/README.md)
 
 [![Local AI Models](local-models/Hero.png)](local-models/README.md)
+
+## [Profession-Specific Prompts](professions/README.md)
+
+[![Profession-Specific Prompts](professions/Hero.png)](professions/README.md)
