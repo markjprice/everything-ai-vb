@@ -1,9 +1,9 @@
-> **A free bonus book for *Microsoft Copilot Visual Bible***
+> **A free bonus book for *Everything AI Visual Bible***
 
 ![Beyond Your First AI](Bonus-Chapter-Beyond-Your-First-AI-Hero.png)
 
 - [Introduction](#introduction)
-- [Chapter 1: Comparing Copilot to ChatGPT or Claude](#chapter-1-comparing-copilot-to-chatgpt-or-claude)
+- [Chapter 1: Comparing ChatGPT and Claude](#chapter-1-comparing-chatgpt-and-claude)
   - [What makes each one distinct](#what-makes-each-one-distinct)
   - [Same idea, different name](#same-idea-different-name)
   - [Cost and plans](#cost-and-plans)
@@ -34,7 +34,7 @@
 
 # Introduction
 
-In *Microsoft Copilot Visual Bible*, *Book 1* to *Book 4* taught you to work with Copilot: how to ask it good questions, build real results, automate your own workflows, and use it to advance your career. Copilot still belongs at the center of that work. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
+In *Everything AI Visual Bible*, *Book 1* to *Book 5* taught you to work with AI: how to ask it good questions, build real results, automate your own workflows, and use it to improve your life. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
 
 You will meet four alternatives: 
 1. **OpenAI ChatGPT** or **Anthropic Claude** is sometimes a strong choice to provide you an alternative point-of-view.
@@ -44,7 +44,7 @@ You will meet four alternatives:
 
 This guide is not a recommendation to leave Copilot. It is also not a full buyer's guide to every AI assistant on the market. Treat it as a short field guide: enough to recognize each tool by name, know its one or two strongest uses, and decide for yourself when it earns a place next to Copilot on your desktop.
 
-# Chapter 1: Comparing Copilot to ChatGPT or Claude
+# Chapter 1: Comparing ChatGPT and Claude
 
 ChatGPT and Claude are the AI assistants you are most likely to hear mentioned alongside Copilot. Both are general-purpose assistants built by AI research companies, and both can write, summarize, analyze, and answer questions in plain language. The differences show up in where each one is strongest.
 

@@ -1,4 +1,4 @@
-> **A free bonus online-only guide to the *Microsoft Copilot Visual Bible***
+> **A free bonus online-only guide to the *Everything AI Visual Bible***
 
 # Bonus Book: Local AI Models
 
