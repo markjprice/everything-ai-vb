@@ -52,17 +52,17 @@ The Novak family and their friends appear one last time. Walt gets a call that s
 
 Chapter|The question it answers
 ---|---
-6.1 Privacy: What You Share and Where It Goes|What happens to what I tell an AI, and how do I control it?
-6.2 Where Your AI Lives: Data, Jurisdiction, and Sovereign AI|What legal jurisdiction controls my AI, and what is meant by sovereign AI?
-6.3 Checking AI's Answers|How do I check an answer quickly and reliably?
-6.4 Deepfakes, Scams, and Synthetic Media|How do I spot fakes and protect my family from AI scams?
-6.5 Bias and Fairness|Where does AI bias come from, and what can I do about it?
-6.6 Copyright, Ownership, and Licensing|Who owns AI-made work, and can I use it commercially?
-6.7 Honesty: Disclosing Your Use of AI|When and how should I say that I used AI?
-6.8 Security: Safe Use of Agents, Plugins, and Connections|How do I give AI access without losing control?
-6.9 Cost, Energy, and the Environment|What does AI really cost, and how do I use it in proportion?
-6.10 Rules and Regulation in Plain English|Which rules affect AI, and how do they affect me?
-6.11 Where AI Is Heading, and How to Keep Learning|How do I keep up as AI changes?
+[6.1 Privacy: What You Share and Where It Goes](ch6-1.md)|What happens to what I tell an AI, and how do I control it?
+[6.2 Where Your AI Lives: Data, Jurisdiction, and Sovereign AI](ch6-1.md)|What legal jurisdiction controls my AI, and what is meant by sovereign AI?
+[6.3 Checking AI's Answers](ch6-1.md)|How do I check an answer quickly and reliably?
+[6.4 Deepfakes, Scams, and Synthetic Media](ch6-1.md)|How do I spot fakes and protect my family from AI scams?
+[6.5 Bias and Fairness](ch6-1.md)|Where does AI bias come from, and what can I do about it?
+[6.6 Copyright, Ownership, and Licensing](ch6-1.md)|Who owns AI-made work, and can I use it commercially?
+[6.7 Honesty: Disclosing Your Use of AI](ch6-1.md)|When and how should I say that I used AI?
+[6.8 Security: Safe Use of Agents, Plugins, and Connections](ch6-1.md)|How do I give AI access without losing control?
+[6.9 Cost, Energy, and the Environment](ch6-1.md)|What does AI really cost, and how do I use it in proportion?
+[6.10 Rules and Regulation in Plain English](ch6-1.md)|Which rules affect AI, and how do they affect me?
+[6.11 Where AI Is Heading, and How to Keep Learning](ch6-1.md)|How do I keep up as AI changes?
 
 *Table 6.0A: Each chapter in Book 6 answers one question about using AI wisely*
 
@@ -74,6 +74,6 @@ Chapter|The question it answers
 
 You can read the chapters in any order. If you're about to connect an AI agent to your accounts, read [*Chapter 6.8*](ch6-8.md) first, as *Chapter 4.8* advised. If you have older relatives, share [*Chapter 6.4*](ch6-4.md) with them.
 
-*Chapter 6.1* starts with the first decision you make every time you use AI: what to share.
+[*Chapter 6.1*](ch6-1.md) starts with the first decision you make every time you use AI: what to share.
 
 [Go to next chapter](ch6-1.md)
